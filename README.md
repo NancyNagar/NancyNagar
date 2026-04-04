@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋, I'm Nancy
 
 - 🧬 I'm passionate about the intersection of **Computer Science, Mathematics, and Environmental Science**.
 - 🌱 Building at the intersection of high-performance systems and digital ecosystems].
