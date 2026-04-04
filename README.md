@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**NancyNagar/NancyNagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧬 I'm passionate about the intersection of **Computer Science, Mathematics, and Environmental Science**.
+- 🌱 Building at the intersection of high-performance systems and digital ecosystems].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Core Stack
+* **Systems:** C++, Qt 6, AVL Trees, Graphs]
+* **Web:** TypeScript, React, Node.js, PostgreSQL]
+* **Logic:** Competitive Programming & Game Theory
+
+### 🚀 Key Projects
+* **Task Board:** Full-stack management with RBAC and secure auth].
+* **SocialNet:** C++ network simulator using custom AVL storage].
+* **Pokerbots:** Strategic auction-based bots for Sneak Peek Hold'em.
+* **Vector Editor:** Polymorphic C++ graphics engine built with Qt 6].
+
+
+---
+[**Codeforces**](https://codeforces.com/profile/Glitch09) • [**LinkedIn**]([#](https://www.linkedin.com/in/nancy-nagar-294899323/))
