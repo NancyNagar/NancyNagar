@@ -1,21 +1,25 @@
-## Hey 👋, I'm Nancy
+<h1 align="center">Hey 👋, I'm Nancy</h1>
 
-- 🧬 I'm passionate about the intersection of **Computer Science, Mathematics, and Environmental Science**.
-- 🌱 Building at the intersection of high-performance systems and digital ecosystems].
+### 🛠️ My Digital Toolbox
+
+* **The "Heavy Lifters" (Systems):** C++, Qt 6, Graphs, and a deep-seated love for AVL Trees].
+* **The "Web Wizards" (Full-Stack):** TypeScript, React, Node.js, and PostgreSQL—keeping things secure with RBAC and JWT].
+* **The "Brain Teasers" (Logic):** Competitive Programming, Game Theory, and Discrete Mathematics.
+
+---
+
+### 🚀 Top-Secret (Public) Projects
+
+* **📋 Task Board:** A project management beast with secure auth and a native drag-and-drop interface].
+* **🌐 SocialNet:** A C++ simulator that handles friendships via Graphs and posts via AVL Trees—because O(log n) is a lifestyle].
+* **🃏 Pokerbots:** Strategic bots for "Sneak Peek Hold'em" that know exactly when to bid in a second-price auction.
+* **🎨 Vector Editor:** A polymorphic C++ graphics engine built with Qt 6 for when I want to draw outside the lines (literally)].
 
 ---
 
-### 💻 Core Stack
-* **Systems:** C++, Qt 6, AVL Trees, Graphs]
-* **Web:** TypeScript, React, Node.js, PostgreSQL]
-* **Logic:** Competitive Programming & Game Theory
+### ⚡ Fun Facts
+* **Handle:** [Glitch09](https://codeforces.com/profile/Glitch09) on Codeforces (catch me in the next contest!).
+* **Current Quest:** Trying to do next COP Project
+* **Fueled by:** Efficient algorithms and environmental data].
 
-### 🚀 Key Projects
-* **Task Board:** Full-stack management with RBAC and secure auth].
-* **SocialNet:** C++ network simulator using custom AVL storage].
-* **Pokerbots:** Strategic auction-based bots for Sneak Peek Hold'em.
-* **Vector Editor:** Polymorphic C++ graphics engine built with Qt 6].
-
-
----
-[**Codeforces**](https://codeforces.com/profile/Glitch09) • [**LinkedIn**](https://www.linkedin.com/in/nancy-nagar-294899323/)
+[**LinkedIn**](https://www.linkedin.com/in/nancy-nagar-294899323/) • [**Codeforces**](https://codeforces.com/profile/Glitch09)
