@@ -18,4 +18,4 @@
 
 
 ---
-[**Codeforces**](https://codeforces.com/profile/Glitch09) • [**LinkedIn**]([#](https://www.linkedin.com/in/nancy-nagar-294899323/))
+[**Codeforces**](https://codeforces.com/profile/Glitch09) • [**LinkedIn**](https://www.linkedin.com/in/nancy-nagar-294899323/)
